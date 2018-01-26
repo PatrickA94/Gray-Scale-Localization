@@ -7,4 +7,4 @@ bin_img.py - Contains code for accomplishing this task
 
 patmacmerge.py - Contains code for a faster version which was achieved by not looking at all pixels and only looking at sections.
 
-## Please open Computer Vision Project.ipynb to see a visualization of what is going on to the image data
+## Please open Computer Vision Project.ipynb to see a visualization of what is going on with the image data as it is processed by the algorithm.
